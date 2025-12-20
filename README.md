@@ -4,6 +4,10 @@
 
 ###
 
+<h1 align="left">Skills</h1>
+
+###
+
 <h3 align="left">Languages</h3>
 
 ###
@@ -64,7 +68,7 @@
 
 ###
 
-<h2 align="left">Message me! ✉️</h2>
+<h3 align="left">Message me! ✉️</h3>
 
 ###
 
@@ -73,6 +77,7 @@
 </div>
 
 ###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshitarora2212/harshitarora2212/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshitarora2212/harshitarora2212/output/pacman-contribution-graph.svg">
