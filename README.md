@@ -1,10 +1,14 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&section=header&reversal=false&text=Hello&fontSize=21&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=60&section=header&reversal=false&text=Hello&fontSize=21&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
 
 <h1 align="left">Yo! 👾 I'm Harshit Arora</h1>
+
+###
+
+<p align="left">With nearly 2 years of professional experience, I am a data science enthusiast focused on exploring data and transforming it into actionable insights. I am also actively interested in open-source contributions.<br>I am currently seeking opportunities where I can apply and grow my skills. Feel free to explore my repositories and use anything that may be helpful. 🤝</p>
 
 ###
 
