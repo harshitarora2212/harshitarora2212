@@ -80,7 +80,7 @@
 
 ###
 
-<h3 align="left">Message me! ✉️</h3>
+<h3 align="left">Message me!</h3>
 
 ###
 
