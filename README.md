@@ -2,12 +2,6 @@
 
 <h1 align="left">Skills</h1>
 
-###
-
-<h1 align="left">Skills</h1>
-
-###
-
 <h3 align="left">Languages</h3>
 
 ###
