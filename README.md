@@ -1,6 +1,10 @@
 ## Hi there 👽
 
-<img src="https://raw.githubusercontent.com/harshitarora2212/harshitarora2212/output/snake.svg" alt="Snake animation" />
+<h1 align="left">Skills</h1>
+
+###
+
+<h3 align="left">Languages</h3>
 
 ###
 
@@ -20,9 +24,29 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" height="40" alt="jira logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" height="40" alt="markdown logo"  />
+</div>
+
+###
+
+<h3 align="left">Libraries</h3>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=black&style=for-the-badge" height="40" alt="selenium logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white&style=for-the-badge" height="40" alt="pytest logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=black&style=for-the-badge" height="40" alt="tensorflow logo"  />
 </div>
+
+###
+
+<h3 align="left">Supplementary Skills</h3>
 
 ###
 
@@ -36,6 +60,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
+</div>
+
+###
+
+<h2 align="left">Message me! ✉️</h2>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </div>
 
 ###
