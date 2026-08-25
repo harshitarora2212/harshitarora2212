@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">With nearly 2 years of professional experience, I am a data science enthusiast focused on exploring data and transforming it into actionable insights. I am also actively interested in open-source contributions.<br>I am currently seeking opportunities where I can apply and grow my skills. Feel free to explore my repositories and use anything that may be helpful. 🤝</p>
+<p align="left">More than 2 Years Experience in Data engineering. More than enough in finding solution. Like learning about Processes. 🤝</p>
 
 ###
 
